@@ -1,18 +1,18 @@
 # Oka_R_HW1_UsingSASS
 
-# Homework 1 Using SASS
+## Homework 1 Using SASS
 
-## Installation
-
-
-## Usage
+### Installation
 
 
-## Contributing
+### Usage
 
 
-## History
+### Contributing
+
+
+### History
 Oct.18.2020
 
-## Credits
+### Credits
 Ryoko Oka Oct.2020
