@@ -8,7 +8,7 @@ Using SASS and remake provided website
 ### Contributing
 1. create a new repo on Github
 2. create folders and files in the new repo on VSCode
-3. copy provided html file to new repo
+3. copy provided files to new repo files
 4. write SASS regarding provided CSS
 
 ### History
